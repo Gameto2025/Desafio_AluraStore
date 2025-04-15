@@ -14,6 +14,6 @@ En este proyecyo se usó lenguaje python para desarrollar los codigos y se apoy�
 
 5.Acceso al proyecto link de Acceso: https://
 
-6.Tecnologías utilizadas : Python 3.10
+6.Tecnologías utilizadas : Python 3.13
 
 7.Autor Gabriel Méndez Oteiza (Gameto2025)
