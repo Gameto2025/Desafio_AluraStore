@@ -30,7 +30,7 @@ El dueño de estas tiendas esta interesado que saber cual tienda puede vender, s
 
 4.Herramientas utilizadas.
 En este proyecto se usó lenguaje python para desarrollar los codigos y se apoyó en las librerias de este leguaje, que son: Pandas, Numpy.  MatPlotLib y Seaborn para crear graficos y Folium para crear mapas. 
-Se uno la plataforma de Google denonimada COLAB, como editor y visualizador del codigo escrito en Python.
+Se usó la plataforma de Google denoninada COLAB, como editor y visualizador del codigo escrito en Python.
 
 5. Funcionalidades 
 Se presentan dos archivo realizados en colab. Uno se denomina Challenge AluraStoreLatam.ipynb, donde se incluyen los codigos, graficos y el informe final del proyecto, donde se efectua el analisis solicitado.
