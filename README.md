@@ -17,7 +17,7 @@ Se presentan dos archivo realizados en colab. Uno se denomina Challenge AluraSto
 
 Anexo a esto, se agrega el archivo Desafio AluraStore_ mapas_extras.ipynb, donde se analizan los ingresos por tienda y lugar de compra. para ello, se crear los mapas de ventas, mapa de rendimiento y el HeatMap.
 
-5.Acceso al proyecto link de Acceso: https://
+5.Acceso al proyecto link de Acceso: https://github.com/Gameto2025/Desafio_AluraStore
 
 6.Tecnologías utilizadas : Python 3.13
 
