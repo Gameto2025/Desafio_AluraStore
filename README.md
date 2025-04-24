@@ -30,11 +30,11 @@ El dueño de estas tiendas esta interesado que saber cual tienda puede vender, s
 
 4.Herramientas utilizadas.
 En este proyecto se usó lenguaje python para desarrollar los codigos y se apoyó en las librerias de este leguaje, que son: Pandas, Numpy.  MatPlotLib y Seaborn para crear graficos y Folium para crear mapas. 
-Se uno la plataforma de Google denonimada COLAB, comoe ditor y visualizador del codigo escrito en Python.
+Se uno la plataforma de Google denonimada COLAB, como editor y visualizador del codigo escrito en Python.
 
 5. Funcionalidades 
-Se presentan dos archivo realizados en colab. Uno se denomina Challenge AluraStoreLatam.ipynb, donde se incluyen los codigos y graficos para efectuar el analisis solicitado.
-Anexo a esto, se agrega el archivo Desafio AluraStore_ mapas_extras.ipynb, donde se analizan los ingresos por tienda y lugar de compra. Para ello, se crean los mapas de ventas, mapa de rendimiento y un HeatMap.
+Se presentan dos archivo realizados en colab. Uno se denomina Challenge AluraStoreLatam.ipynb, donde se incluyen los codigos, graficos y el informe final del proyecto, donde se efectua el analisis solicitado.
+Anexo a esto, se agrega el archivo Desafio AluraStore_ mapas_extras.ipynb, en el cual se analizan los ingresos por tienda y lugar de compra. Para ello, se crean los mapas de ventas, mapa de rendimiento y un HeatMap.
 
 6.Acceso al proyecto link de Acceso: https://github.com/Gameto2025/Desafio_AluraStore
 
