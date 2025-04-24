@@ -3,10 +3,15 @@
 Desafio Alura Stores del curso de Modelado de datos de Curso ONE de Aluta Latam.
 
 Índice 
-1. Título 
+
+1. Título
+   
 2.Introducción 
+
 3.Estado del proyecto 
+
 4. Herramientas Utilizadas
+   
 5.Funcionalidades 
 6.Acceso al proyecto 
 7.Tecnologías Utilizadas 
